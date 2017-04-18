@@ -6,7 +6,7 @@ document.write(
       <p id='nav_desc'>A Professional Organization for Case's Engineers</p>\
     </div>\
     <li><a href='index.html#main'>Home</a></li>\
-    <li><a href='index.html#projects'>Events</a></li>\
+    <li><a href='index.html#events'>Events</a></li>\
     <li><a href='index.html#team'>Members</a></li>\
     <li><a href='index.html#sponsorship'>Sponsorship</a></li>\
     <li><a href='index.html#contact'>Contact</a></li>\
